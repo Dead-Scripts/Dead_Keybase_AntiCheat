@@ -1,4 +1,5 @@
 ### Fivem-Keybase-Anticheat
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
     Essentially this script protects your server events from being triggered by others from the client side of scripts (people with Lua executors). You will give the server events passwords, then to trigger the event, you must run it through the Keybase-Anticheat so it will verify it as a valid event triggered by you on the server-side. This is very useful considering nobody can exploit it from the client-side as they will not know the key you set for the event.
 
